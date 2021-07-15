@@ -2,7 +2,9 @@
 ![spike_connector](https://user-images.githubusercontent.com/5597377/125667515-099c3969-b7d1-4cc6-96f6-db369cd490be.png)
 
 ## 概要
-LEGO(R) Spike PrimeのHubに接続する実験用基板（PCB）です。
+LEGO(R) SPIKE PrimeのHubに接続するコネクタのプリント基板（PCB）です。
+
+コネクタの形状はWeDo2.0/Powered UP/Boostと互換性があります。
 
 ## ファイルの説明
 PCBのCADデータです。
