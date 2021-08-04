@@ -22,6 +22,8 @@ P板.comに発注することで基板を製造可能です。カードエッジ
 
 ・ジャンパーワイヤーで接続します。
 
+![photo2](https://user-images.githubusercontent.com/5597377/128140714-18edd984-eb81-4fa9-84d4-1d8cf7827ddf.jpg)
+
 ## 使い方の例
 ![2021-07-14_16-40-09_398](https://user-images.githubusercontent.com/5597377/125670871-a2a5b117-0fb5-45a1-8732-45153e1c2b46.jpg)
 ・延長ケーブルの自作。
