@@ -8,7 +8,7 @@ LEGO(R) SPIKE PrimeのHubに接続するコネクタのプリント基板（PCB�
 
 ## ファイルの説明
 
-![spike_connector](https://user-images.githubusercontent.com/5597377/125667515-099c3969-b7d1-4cc6-96f6-db369cd490be.png)
+![spikeconnector_pcb](https://user-images.githubusercontent.com/5597377/209868411-05b381cb-5f69-431f-bc59-2bb1a22dadd1.png)
 
 ・SPIKE_CONNECTOR.COMP：基板のCADデータです。P板.com( https://www.p-ban.com/ )で配布している無料CAD「CADLUS X」を使って展開・編集することができます。P板.comに発注することで基板を製造可能です。カードエッジ部分は抜き差しで摩耗しますので、基板製造時にはハンダレベラー処理をお勧めします。
 
