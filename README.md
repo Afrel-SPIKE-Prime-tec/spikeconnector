@@ -7,9 +7,8 @@ LEGO(R) SPIKE PrimeのHubに接続するコネクタのプリント基板（PCB�
 コネクタの形状はWeDo2.0/Powered UP/Boostと互換性があります。
 
 ## ファイルの説明
-COMPファイルは圧縮されたPCBのCADデータです。
-P板.com( https://www.p-ban.com/ )で配布している無料CAD「CADLUS X」を使って展開・編集することができます。
-P板.comに発注することで基板を製造可能です。カードエッジ部分は抜き差しで摩耗しますので、基板製造時にはハンダレベラー処理をお勧めします。
+・SPIKE_CONNECTOR.COMP：PCBのCADデータです。P板.com( https://www.p-ban.com/ )で配布している無料CAD「CADLUS X」を使って展開・編集することができます。P板.comに発注することで基板を製造可能です。カードエッジ部分は抜き差しで摩耗しますので、基板製造時にはハンダレベラー処理をお勧めします。
+
 
 ## 組み立て方法
 ![pcb_photo](https://user-images.githubusercontent.com/5597377/125736662-b56891c7-aa2d-4d15-8239-ef3be248ee64.jpg)
